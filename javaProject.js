@@ -1,3 +1,4 @@
 const nama = "reno";
+const lastName = "jeyyy"
 
-console.log(nama);
+console.log(nama, lastName);
